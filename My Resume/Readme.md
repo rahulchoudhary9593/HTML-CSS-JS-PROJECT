@@ -75,12 +75,5 @@ resume-website/
 
 ```bash
 git clone https://github.com/yourusername/resume-website.git
-Open index.html in a browser:
-
-bash
-Copy code
-open index.html
-Edit content as needed (name, contact, skills, projects)
-
-Optional: Export as PDF for a print-ready resume
+```
 
