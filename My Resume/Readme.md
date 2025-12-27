@@ -1,7 +1,7 @@
 # Rahul Choudhary - Personal Resume Website
 
 ## Live Demo
-[View Live Resume](https://yourusername.github.io/repo-name/)
+[View Live Resume](https://rahulchoudhary01.netlify.app/)
 
 
 This repository contains the **personal resume website** of Rahul Choudhary, designed to showcase **education, skills, projects, and contact details** in a **clean, professional, and mobile-friendly format**.  
@@ -74,6 +74,6 @@ resume-website/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/resume-website.git
+git clone [https://github.com/rahulchoudhary9593/HTML-CSS-JS-PROJECT/tree/main/My%20Resume](https://github.com/rahulchoudhary9593/HTML-CSS-JS-PROJECT/tree/main/My%20Resume)
 ```
 
