@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/rahulchoudhary9593/HTML-CSS-JS-PROJECT/tree/main/31-12-2025)
+   git clone https://github.com/rahulchoudhary9593/HTML-CSS-JS-PROJECT/tree/main/31-12-2025
 2. **Navigate to the project directory:**
     ```bash
     cd your-repository-name
